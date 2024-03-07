@@ -17,4 +17,11 @@
 #gameover img {
     margin: 2rem;
     height: 200px;
+    filter:drop-shadow(11px 3px 10px #000000);
+}
+
+#gameover p.msg {
+    padding: 5px;
+    background-color: rgba(255, 255, 255, 0.918);
+    border-radius: 10px;
 }
